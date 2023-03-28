@@ -16,9 +16,6 @@
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/screen6.JPG">
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/screen8.JPG">
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/screen9.JPG">
- <img style="width: 180px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/screen10.JPG">
-    
-
  <p>
 
 ## 🛠️ Main technologies
