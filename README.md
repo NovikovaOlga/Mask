@@ -20,4 +20,11 @@
 
 ## 🛠️ Main technologies
  - **ARKit**
-
+ - **SceneKit**
+ - **UIKit**
+ 
+## 🔓 Access
+The application will ask for access permission
+- **photo album**
+- **camera**
+ 
