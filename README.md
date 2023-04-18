@@ -18,13 +18,14 @@
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/screen9.JPG">
  <p>
 
-## 🛠️ Main technologies
+## 🛠️ Technologies
  - **ARKit**
  - **SceneKit**
  - **UIKit**
+ - **model (.usdz)**
  
 ## 🔓 Access
-The application will ask for access permission
+The application will ask for access permission:
 - **photo album**
 - **camera**
  
