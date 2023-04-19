@@ -6,10 +6,10 @@
 <p> Allows you to try on glasses, mustache and masks for yourself. It is also possible to take a photo. </p>
 
 <p>
- <img style="width: 180px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/screen1.PNG">
- <img style="width: 180px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/screen2.PNG">
- <img style="width: 180px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/screen3.PNG">
- <img style="width: 180px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/screen4.PNG"> 
+ <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Mask/screen1.PNG">
+ <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Mask/screen2.PNG">
+ <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Mask/screen3.PNG">
+ <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Mask/screen4.PNG"> 
 <p>
  
 ## How to use
@@ -21,7 +21,7 @@
 <p> 3D models of third-party authors from the portal were used: https://sketchfab.com/feed <p> 
  
 <p>
- <img style="width: 150px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/mask1.png"> 
+ <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Mask/mask1.png"> 
  <img style="width: 150px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/mask2.png"> 
  <img style="width: 150px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/mask3.png"> 
  <img style="width: 150px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/mask4.png"> 
