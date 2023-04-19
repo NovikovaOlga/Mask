@@ -22,19 +22,19 @@
  
 <p>
  <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Mask/mask1.png"> 
- <img style="width: 150px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/mask2.png"> 
- <img style="width: 150px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/mask3.png"> 
- <img style="width: 150px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/mask4.png"> 
- <img style="width: 150px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/mask5.png"> 
- <img style="width: 150px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/mask6.png"> 
- <img style="width: 150px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/mask7.png"> 
- <img style="width: 150px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/mask8.png"> 
- <img style="width: 150px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/mask9.png"> 
- <img style="width: 150px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/mask10.png"> 
- <img style="width: 150px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/mask11.png"> 
- <img style="width: 150px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/mask12.png"> 
- <img style="width: 150px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/mask13.png"> 
- <img style="width: 150px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/mask14.png"> 
+ <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Mask/mask2.png"> 
+ <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Mask/mask3.png"> 
+ <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Mask/mask4.png"> 
+ <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Mask/mask5.png"> 
+ <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Mask/mask6.png"> 
+ <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Mask/mask7.png"> 
+ <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Mask/mask8.png"> 
+ <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Mask/mask9.png"> 
+ <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Mask/mask10.png"> 
+ <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Mask/mask11.png"> 
+ <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Mask/mask12.png"> 
+ <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Mask/mask13.png"> 
+ <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Mask/mask14.png"> 
 <p>
 
 ## 🛠️ Technologies
