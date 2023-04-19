@@ -2,7 +2,7 @@
 
 ## 🎭 Augmented reality app. 
 
-## 🚀 Capabilities
+## Capabilities
 <p> Allows you to try on glasses, mustache and masks for yourself. It is also possible to take a photo. </p>
 
 <p>
@@ -37,13 +37,13 @@
  <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Mask/mask14.png"> 
 <p>
 
-## 🛠️ Technologies
+##  Technologies
  - **ARKit**
  - **SceneKit**
  - **UIKit**
  - **model (.usdz)**
  
-## 🔓 Access
+## Access
 The application will ask for access permission:
 - **photo album**
 - **camera**
