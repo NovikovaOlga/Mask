@@ -13,6 +13,8 @@
 <p>
   
 ## 3D Model
+<p> 3D models of third-party authors from the portal were used: https://sketchfab.com/feed <p> 
+ 
 <p>
  <img style="width: 150px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/mask1.png"> 
  <img style="width: 150px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/mask2.png"> 
