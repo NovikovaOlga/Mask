@@ -37,7 +37,7 @@
  <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Mask/mask14.png"> 
 <p>
 
-##  Technologies
+## Technologies
  - **ARKit**
  - **SceneKit**
  - **UIKit**
