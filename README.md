@@ -15,6 +15,10 @@
 ## 3D Model
  <img style="width: 150px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/mask1.png"> 
  <img style="width: 150px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/mask2.png"> 
+ <img style="width: 150px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/mask3.png"> 
+ <img style="width: 150px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/mask4.png"> 
+ <img style="width: 150px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/mask5.png"> 
+ <img style="width: 150px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/mask6.png"> 
 
 ## 🛠️ Technologies
  - **ARKit**
