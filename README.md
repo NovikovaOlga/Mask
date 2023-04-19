@@ -49,5 +49,6 @@ The application will ask for access permission:
 - **camera**
  
 ## Installing and launching the application
- 
+- **Download the project archive.** 
+- **Project startup file: Mask.xcodeproj** 
 
