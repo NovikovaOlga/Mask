@@ -13,8 +13,8 @@
  <p>
   
 ## 3D Model
- <img style="width: 100px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/mask1.PNG"> 
- <img style="width: 100px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/mask2.PNG"> 
+ <img style="width: 100px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/mask1.png"> 
+ <img style="width: 100px;" src="https://github.com/NovikovaOlga/Mask/blob/main/screens/mask2.png"> 
 
 ## 🛠️ Technologies
  - **ARKit**
