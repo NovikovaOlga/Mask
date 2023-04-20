@@ -46,10 +46,10 @@
  - **UIKit**
  - **model (.usdz)**
  
-## Access
+## Privacy
 The application will ask for access permission:
-- **photo album**
-- **camera**
+- **Photo Library**
+- **Camera**
  
 ## Installing and launching the application
 - **Download the project archive.** 
