@@ -14,7 +14,12 @@
  
 ## How to use
 <p>
- Just point the camera at the face. To sort the models of glasses, click the button with the image of glasses, to sort the models of mustaches and masks, click the button with the image of glasses. You can use different combinations of masks. When the face moves, the mask will also move. If you want to take a picture, then click on the button with the camera image. Your photo with superimposed 3D masks will be saved in the phone gallery.
+- Just point the camera at the face. 
+- To sort the models of glasses, click the button with the image of glasses, to sort the models of mustaches and masks, click the button with the image of glasses. 
+- You can use different combinations of masks. 
+- When the face moves, the mask will also move. 
+- If you want to take a picture, then click on the button with the camera image. 
+- Your photo with superimposed 3D masks will be saved in the phone gallery.
 </p>
   
 ## 3D Model
