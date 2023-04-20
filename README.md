@@ -10,15 +10,15 @@
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Mask/screen2.PNG">
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Mask/screen3.PNG">
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Mask/screen4.PNG"> 
-<p>
+</p>
  
 ## How to use
 <p>
  Just point the camera at the face. To sort the models of glasses, click the button with the image of glasses, to sort the models of mustaches and masks, click the button with the image of glasses. You can use different combinations of masks. When the face moves, the mask will also move. If you want to take a picture, then click on the button with the camera image. Your photo with superimposed 3D masks will be saved in the phone gallery.
-<p>
+</p>
   
 ## 3D Model
-<p> 3D models of third-party authors from the portal were used: https://sketchfab.com/feed <p> 
+<p> 3D models of third-party authors from the portal were used: https://sketchfab.com/feed </p> 
  
 <p>
  <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Mask/mask1.png"> 
@@ -35,7 +35,7 @@
  <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Mask/mask12.png"> 
  <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Mask/mask13.png"> 
  <img style="width: 150px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Mask/mask14.png"> 
-<p>
+</p>
 
 ## Technologies
  - **ARKit**
