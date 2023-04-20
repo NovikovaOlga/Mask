@@ -2,7 +2,7 @@
 
 ## 🎭 Augmented reality app. 
 
-## Capabilities
+## Description
 <p> Allows you to try on glasses, mustache and masks for yourself. It is also possible to take a photo. </p>
 
 <p>
@@ -12,7 +12,7 @@
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Mask/screen4.PNG"> 
 </p>
  
-## How to use
+## Capabilities
 - Just point the camera at the face. 
 - To sort the models of glasses, click the button with the image of glasses, to sort the models of mustaches and masks, click the button with the image of glasses. 
 - You can use different combinations of masks. 
