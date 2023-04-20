@@ -51,7 +51,7 @@ The application will ask for access permission:
 - **Photo Library**
 - **Camera**
  
-## Installing and launching the application
+## Installing and launching
 - **Download the project archive.** 
 - **Project startup file: Mask.xcodeproj** 
 
