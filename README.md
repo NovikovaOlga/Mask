@@ -55,5 +55,5 @@ The application will ask for access permission:
 - **Download the project archive.** 
 - **Project startup file: Mask.xcodeproj** 
 
-#### Requires running on a real device.
+##### Requires running on a real device.
 
